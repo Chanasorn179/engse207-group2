@@ -32,8 +32,7 @@
 
 แผนภาพแสดงภาพรวมของระบบ Bilibili และการเชื่อมต่อกับผู้ใช้งานรวมถึงระบบภายนอก
 
-![System Context Diagram](lab1-System Context Diagram/image/Screenshot 2025-11-23 214001.png)
-*(กรุณาแทนที่ด้วยไฟล์รูปภาพ System Context ของคุณ)*
+<img src="image/Screenshot 2025-11-23 214001.png" alt="System Context Diagram" width="800">
 
 ### องค์ประกอบหลัก (Key Components)
 * **Actors:** Viewer (ผู้ชม), Content Creator (UP Host), Admin
@@ -48,8 +47,7 @@
 
 แผนภาพจำลองสถานการณ์ **"Mass Live Streaming Event"** เมื่อมีผู้ใช้งานจำนวนมากส่งคอมเมนต์ (Danmu) พร้อมกัน
 
-![Performance Scenario](lab1-System Context Diagram/image/unnamed.png)
-*(กรุณาแทนที่ด้วยไฟล์รูปภาพ Performance Flow ที่เป็นลูกศรสีแดง)*
+<img src="image/unnamed.png" alt="Performance Flow" width="800">
 
 ### การวิเคราะห์คอขวด (Bottleneck Analysis)
 * **Fan-out Effect:** เมื่อผู้ใช้ 1 คนส่งข้อความ ระบบต้องกระจาย (Broadcast) ไปยังผู้ชมหลักล้านคนทันที
