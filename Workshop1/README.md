@@ -52,7 +52,7 @@
 ## 🛠 Tech Stack (Proposed)
 
 | Category | Technology |
-|Path | :--- |
+| :--- | :--- |
 | **Frontend** | React / Vue.js, Tailwind CSS |
 | **Backend** | Node.js (Express) / Go |
 | **Database** | MongoDB / PostgreSQL |
