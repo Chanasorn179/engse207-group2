@@ -26,6 +26,8 @@ ConnectZone คือแพลตฟอร์ม Social Media ขนาดเล
 - Change Password
 - Follow Users
 
+---
+
 ### 📝 Content & Post
 - Create Post (Text + Images ≤ 4 files)
 - Edit/Delete own post
@@ -33,11 +35,15 @@ ConnectZone คือแพลตฟอร์ม Social Media ขนาดเล
 - Comment on posts
 - Privacy Settings (Public / Friends / Private)
 
+---
+
 ### 🔄 Social Interaction & Community
 - Create Circle (Group)
 - Public / Private Group
 - Join Group / Request Membership
 - Content Moderation (Report, Ban, Remove content)
+
+---
 
 ### 🔔 System Features
 - Notification (Likes, Comments, Group Updates)
@@ -125,62 +131,21 @@ ConnectZone คือแพลตฟอร์ม Social Media ขนาดเล
 [Moderation Service]
 ```
 
-
 ---
 
-## 🛠️ Suggested Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Frontend | React / Next.js / Tailwind CSS |
-| Backend | Node.js (Express / NestJS) |
-| Database | PostgreSQL (User/Auth), MongoDB (Posts/Feeds) |
-| Authentication | JWT + Refresh Token |
-| Storage | AWS S3 / Firebase Storage (Images) |
-| Deployment | Docker, AWS EC2, Railway, Render |
-
----
-
-## 🚀 MVP Delivery Plan (12 Weeks)
-
-| Phase | Duration | Major Deliverables |
-|--------|----------|--------------------|
-| Week 1–2 | Requirement & Design | UI Prototype, ER Diagram, APIs |
-| Week 3–6 | Core Features | Auth, Post, Comment, Feed |
-| Week 7–9 | Circles, Follow, Search, Notification |
-| Week 10–11 | Moderation, Settings, PDPA compliance |
-| Week 12 | Testing, Deploy, Presentation |
-
----
-
-## 📷 Interface Preview (Concept)
-
-| Profile Page | Circle Feed | Create Post |
-|--------------|-------------|-------------|
-| 👤 User Profile | 🏡 Interest Group | 📝 Upload + Post |
-
-*(ในไฟนอลโปรเจกต์สามารถใส่ภาพ Mockup หรือหน้าจริงได้)*
-
----
-
-## 📎 License
-
-This project is developed for **Educational & MVP purposes** only.  
-Commercial use must comply with **PDPA & Copyright Laws**.
-
----
 
 ## ✨ Contributors
 
-| Name | Role |
-|------|------|
-| Team Member A | Backend & Database |
-| Team Member B | Frontend UI/UX |
-| Team Member C | System Architecture |
-| Team Member D | QA & Documentation |
+| รหัสนักศึกษา | ชื่อ-นามสกุล | Role |
+| :--- | :--- | :--- |
+| **67543210025-2** | นาย ชนสรณ์ บุตรถา | Dev A (Frontend) |
+| **67543210033-6** | นาย ธาวัน ทิพคุณ | Dev B (Backend) |
+| **67543210049-2** | นาย อติโรจน์ กุหลั่น | Team Leader |
+| **67543210071-6** | นาย เบญจศรายุทธ น้อยอุบล | Tester |
 
 ---
 
 > ⭐ _“Connect people, build communities, and empower interests.”_  
 > 🚀 Developed with passion for real-world problem solving.
+
 
